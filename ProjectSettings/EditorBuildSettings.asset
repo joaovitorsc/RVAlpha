@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Manomotion/Examples/Spooky/Spooky.unity
+    guid: 958443cf6d60d4de7b2c6be811e72a9d
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ccd7f28680ebb4949a0b3e172de9df71
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 3bce851b4754096449232441f0c1e901
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: b83b22d7129188e499f8ec0976ad9f4f
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: b18481a09ace1b940aad30b179691a5f
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: ae772c07699bfe345aa463fc56698606
+  m_configObjects: {}
