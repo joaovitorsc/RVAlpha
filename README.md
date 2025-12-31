@@ -2,7 +2,7 @@
 
 🎯 Project Objective
 The project aims to test whether new forms of interaction, such as natural hand gestures, increase user immersivity compared to traditional methods like joysticks or touchscreens. It focuses on maintaining low computational cost and financial accessibility for the end user.
-
+Project Video: https://www.youtube.com/watch?v=0LAuNXpx6Y4&t=16s
 🎮 Gameplay Mechanics
 
 The game features simple yet effective mechanics where the user must survive by interacting with the environment using only hand gestures.
